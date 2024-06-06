@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 91,
-    "timeWeek": 105,
-    "timeMonth": 113,
-    "timeYear": 110,
+    "time": 111,
+    "timeDay": 151,
+    "timeWeek": 104,
+    "timeMonth": 115,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.gabi.eu.org.ico",
     "slug": "jellyfin-public-endpoint",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 952,
-    "timeDay": 1450,
-    "timeWeek": 979,
-    "timeMonth": 1009,
+    "timeDay": 1478,
+    "timeWeek": 977,
+    "timeMonth": 971,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2024-06-05": 14,
       "2024-04-22": 21
     }
   }
