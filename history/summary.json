@@ -22,18 +22,19 @@
     "url": "https://services.gabi.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/services.gabi.eu.org.ico",
     "slug": "jellyfin-public-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1282,
-    "timeDay": 1019,
-    "timeWeek": 2349,
-    "timeMonth": 1635,
-    "timeYear": 1282,
+    "time": 1439,
+    "timeDay": 7592,
+    "timeWeek": 3530,
+    "timeMonth": 1920,
+    "timeYear": 1439,
     "dailyMinutesDown": {
+      "2024-06-17": 0,
       "2024-04-22": 21
     }
   }
