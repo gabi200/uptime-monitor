@@ -1,7 +1,7 @@
 url: https://services.gabi.eu.org
-status: up
-code: 200
-responseTime: 854
-lastUpdated: 2024-12-03T17:46:06.815Z
+status: down
+code: 502
+responseTime: 10978
+lastUpdated: 2024-12-03T19:58:20.086Z
 startTime: 2024-04-16T19:11:39.145Z
 generator: Upptime <https://github.com/upptime/upptime>
